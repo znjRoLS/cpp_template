@@ -17,7 +17,7 @@ cmake-build-debug
 # doxygen cmake
 CMakeDoxygenDefaults.cmake
 CMakeDoxyfile.in
-
+docs
 # build files
 bin/
 lib/
