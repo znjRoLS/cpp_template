@@ -13,3 +13,11 @@ CTestTestfile.cmake
 # Clion idea
 .idea
 cmake-build-debug
+
+# doxygen cmake
+CMakeDoxygenDefaults.cmake
+CMakeDoxyfile.in
+
+# build files
+bin/
+lib/
